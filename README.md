@@ -1,4 +1,5 @@
-# Schema
+# Deployment diagram
+![image](https://user-images.githubusercontent.com/60584457/208301046-5d667f53-b4a1-4696-901d-aeb4691245bc.png)
 
 
 # Routes
